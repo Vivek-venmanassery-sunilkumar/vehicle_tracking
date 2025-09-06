@@ -1,0 +1,10 @@
+#python
+
+__pycache__/
+*.pyc
+
+#Virtual environment
+tracker_venv/
+
+#Evironment variables
+.env
